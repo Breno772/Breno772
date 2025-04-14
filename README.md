@@ -4,7 +4,7 @@
   <i>Estudante que se interessa por tecnologia, inteligência artificial, front-end e jogos</i>
 </p>
 
-<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tumblr.com%2Fkyanitedragon%2F664983042867249152%2Fgammamon-evos-happy-id-gifs-of-gammamon-and&psig=AOvVaw3UwoZXWfcWGMPFmWEZIa9a&ust=1744755408568000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjyqMXG2IwDFQAAAAAdAAAAABAS.gif" width="200"/>
+<img align="right" src="https://64.media.tumblr.com/48606d1558a99960e663cd5b1e197942/2ac6e90efc046650-58/s500x750/84062ba5208b622a7bd46935989dbf12912ddf33.gif" width="200"/>
 
 ---
 
