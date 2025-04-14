@@ -50,6 +50,7 @@
 - 💡 "Errar é o primeiro passo para coringar"
 - ⚡ Curiosidade: quase sempre reclamo enquanto programo 🎧
 - 👾 Já tentou fazer um inventário do Minecraft em PHP? Eu sim
+- ☠  Nunca tente fazer uma Pokedex, é um erro.
 
 ---
 
